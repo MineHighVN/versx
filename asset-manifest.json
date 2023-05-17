@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/versx/static/css/main.bea42513.css",
-    "main.js": "/versx/static/js/main.bd1dea4b.js",
+    "main.js": "/versx/static/js/main.917f44c9.js",
     "static/media/background.png": "/versx/static/media/background.dc8e709967621c8ad862.png",
     "index.html": "/versx/index.html",
     "main.bea42513.css.map": "/versx/static/css/main.bea42513.css.map",
-    "main.bd1dea4b.js.map": "/versx/static/js/main.bd1dea4b.js.map"
+    "main.917f44c9.js.map": "/versx/static/js/main.917f44c9.js.map"
   },
   "entrypoints": [
     "static/css/main.bea42513.css",
-    "static/js/main.bd1dea4b.js"
+    "static/js/main.917f44c9.js"
   ]
 }
